@@ -1,0 +1,21 @@
+Kisi Kisi Quiz Computational Biology LAB
+
+1. GenBank Files
+- Import
+- Read Sequence in fasta/gb format
+
+2. Sequence Manipulation Using Python
+
+3. Sequence Analysis
+- Determine Melting Temp
+- Determine GC / AT Content
+- Determine Molecular Weight
+- Finding Nucleotides Base Freq
+
+4. DNA & mRNA Protein Synthesis
+- Transcription
+- Translation
+
+5. Find Sequence Alignment & Similarities
+
+6. Plotting
